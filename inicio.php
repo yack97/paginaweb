@@ -18,7 +18,14 @@ $menu='inicio';
 <body>
 	<?php include('inc/header.php');?>
 	<?php include('inc/menu.php');?>
-
+<?php include('inc/header.php');?>
+	<?php include('inc/menu.php');?>
+	<?php include('inc/header.php');?>
+	<?php include('inc/menu.php');?>
+	<?php include('inc/header.php');?>
+	<?php include('inc/menu.php');?>
+	<?php include('inc/header.php');?>
+	<?php include('inc/menu.php');?>
 
 	<div class="contenedor fondo-blanco relleno-8 borde-gris" style="min-height: 500px">
 		<div class="fila">
